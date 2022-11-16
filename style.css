@@ -1,0 +1,19 @@
+
+form{
+text-align:center;
+margin-left:700px ;
+margin-right: 600px;
+}
+fieldset{
+    border-radius: 40px;
+    background-color:rgb(159, 191, 196);
+    margin-left: 20px;
+    margin-top:200px ;
+    font-size: 20px;
+}
+button{
+font-style: oblique;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: rgb(204, 217, 217);
+}
